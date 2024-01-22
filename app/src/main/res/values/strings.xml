@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FADA Pharmacy</string>
+    <string name="board_one_title">Boost Your Pharmacy Audience</string>
+    <string name="board_one_description">Expand your pharmacy\'s reach with FADA. Our innovative marketing and engagement tools connect you with a wider audience, building lasting client relationships and fostering trust in your community.</string>
+    <string name="board_two_title">Organize Your Pharmacy Inventory</string>
+    <string name="board_two_description">FADA helps streamline your pharmacy\'s inventory management effortlessly. Say goodbye to stockouts and overstocking, ensuring your shelves are always well-stocked and ready to serve your customers.</string>
+    <string name="board_three_title">Skyrocket Your Pharmacy Net Profit</string>
+    <string name="board_three_description">Unlock hidden revenue potential with FADA. Our  software analyses sales data to identify growth opportunities, helping your pharmacy optimize pricing, promotions, and product offerings for increased profitability.</string>
+    <string name="onboarding_finish_button_text">Continue to login</string>
+
 </resources>
